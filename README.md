@@ -30,7 +30,7 @@ This implementation is primarily for educational purposes to help understand how
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/png-parser.git
+git clone https://github.com/MohanadKh03/png-parser.git
 ```
 
 ### 2. Navigate to the project directory:
@@ -44,6 +44,8 @@ cd png-parser
 ### 1. Run the script with the `--path` argument to specify the PNG file path:
 
 You can run the script by passing the relative file path of the PNG file you want to process as an argument using the following CLI command:
+
+e.g: PostgreSQL.png
 
 ```bash
 node main.js --path=./PostgreSQL.png
